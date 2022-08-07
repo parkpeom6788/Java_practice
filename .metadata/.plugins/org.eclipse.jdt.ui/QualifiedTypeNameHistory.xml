@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="eud.sample.WashingMachine"/>
+    <fullyQualifiedTypeName name="eud.sample.LGWashingMachine"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="abstract_interface.ExamInterface.OpenCloseIf"/>
+    <fullyQualifiedTypeName name="abstract_interface.ExamInterface.PaintIf"/>
+    <fullyQualifiedTypeName name="abstract_interface.ExamInterface.Door"/>
+    <fullyQualifiedTypeName name="abstract_interface.Bottle"/>
+</qualifiedTypeNameHistroy>
